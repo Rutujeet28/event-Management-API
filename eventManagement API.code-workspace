@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../eventManagement API"
+		},
+		{
+			"name": "event-Management-API",
+			"path": "../eventManagement API/event-Management-API"
+		},
+		{
+			"name": "event-Management-API",
+			"path": "."
+		},
+		{
+			"name": "event-Management-API-1",
+			"path": "../event-Management-API-1"
+		}
+	],
+	"settings": {}
+}
